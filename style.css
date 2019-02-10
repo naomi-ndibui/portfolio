@@ -1,15 +1,23 @@
-.column-left
- {
-width: 50%;
- float:left;
-}
-.column-right
-{
+.column-left {
   width: 50%;
-  float:right;
+  float: left;
 }
-.title{
+
+.column-right {
+  width: 50%;
+  float: right;
+}
+
+.column-right img {
+  width: 100%;
+}
+
+.image-height {
+  height: 610px;
+}
+
+.title {
   text-transform: uppercase;
-  font-size: 18px;
+  font-size: 24px;
   color: grey;
 }
