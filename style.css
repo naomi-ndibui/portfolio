@@ -1,12 +1,12 @@
-.column-right
+.column-left
  {
 width: 50%;
- float:right;
+ float:left;
 }
-.column-left
+.column-right
 {
   width: 50%;
-  float:left;
+  float:right;
 }
 .title{
   text-transform: uppercase;
