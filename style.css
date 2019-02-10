@@ -1,5 +1,15 @@
-.sidebar
+.column-right
  {
 width: 50%;
  float:right;
+}
+.column-left
+{
+  width: 50%;
+  float:left;
+}
+.title{
+  text-transform: uppercase;
+  font-size: 18px;
+  color: grey;
 }
